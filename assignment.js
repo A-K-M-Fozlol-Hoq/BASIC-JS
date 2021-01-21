@@ -85,7 +85,6 @@ console.log(megaFriend(['Mohammad','AKM','Fozlol','Hoq','Metul','Abul','Kashem']
 console.log(megaFriend([' ']));
 console.log(megaFriend(['']));
 console.log(megaFriend(['a'])); //Not a name
-console.log(megaFriend(['ab'])); //Not a name
 console.log(megaFriend(['Kashem','Mohammad','AKM','Fozlol','Hoq','Metul','Abul']));
 console.log(megaFriend(['Abul','Kashem','Mohammad','AKM','Fozlol','Hoq','Metul']));
 console.log(megaFriend([]));
