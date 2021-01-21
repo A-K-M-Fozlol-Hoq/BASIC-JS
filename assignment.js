@@ -44,7 +44,7 @@ function megaFriend(friendNames){
     }
 
     // Handle Exception => if the array is not empty, but the friends name is empty (or garbage)
-    if (friendNames[0].length<=2){
+    if (friendNames[0].length<=1){
         return "Please send valid names.";
     }
 
