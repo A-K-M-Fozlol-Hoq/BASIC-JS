@@ -1,4 +1,4 @@
-// https://github.com/A-K-M-Fozlol-Hoq/BASIC-JS
+// https://github.com/A-K-M-Fozlol-Hoq/BASIC-JS/blob/main/assignment.js
 
 // This function converts from kilometer to meter
 function kilometerToMeter(km){
